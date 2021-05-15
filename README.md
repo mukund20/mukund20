@@ -18,16 +18,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Linux" width="76px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png " />]
-[<img align="left" alt="Python" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/>]
-[<img align="left" alt="Bash" width="76px" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg " />]
-[<img align="left" alt="GIT" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png " />]
-[<img align="left" alt="Docker" width="96px" src="https://www.eginnovations.com/blog/wp-content/uploads/2019/10/docker-devops-tools-review.jpg" />]
-[<img align="left" alt="Azure" width="76px" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png " />]
-
-
-
-
+<img align="left" alt="Linux" width="76px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png " />
+<img align="left" alt="Python" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/>
+<img align="left" alt="Bash" width="76px" src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg " />
+<img align="left" alt="GIT" width="96px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png" />
+<img align="left" alt="Docker" width="116px" src="https://www.eginnovations.com/blog/wp-content/uploads/2019/10/docker-devops-tools-review.jpg" />
+<img align="left" alt="Azure" width="76px" src="https://bornsql.ca/wp-content/uploads/2018/09/azurelogo.jpg" />
+<br />
+<br />
 <br />
 <br />
 <details>
