@@ -1,7 +1,7 @@
 
 ### Hi there, I am Mukund Tolay👋
 
-- 👋 Hi, I’m a System Administrator and a Devops Aspirant.
+- 👋 Hi, I’m a System Administrator and a Devops aspirant.
 - 👀 I’m interested in DevOps Role.
 - 🌱 I’m currently learning DevOps tools and Also pursuing PGC in DevOps.
 - 💞️ I’m looking to collaborate on Python Development, DevOps, Linux, Shell Scripting.
