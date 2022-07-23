@@ -1,12 +1,11 @@
 
 ### Hi there, I am Mukund Tolay👋
 
-- 👋 Hi, I’m a System Administrator and a Devops aspirant.
-- 👀 I’m interested in DevOps Role.
-- 🌱 I’m currently learning DevOps tools and Also pursuing PGC in DevOps.
-- 💞️ I’m looking to collaborate on Python Development, DevOps, Linux, Shell Scripting.
+- 👋 Hi, I’m a DevOps Engineer.
+- 🌱 I’m currently wokrking on Openshift cluster.
+- 💞️ Currently preparing for CKAD certification.
 - 📫 How to reach me mukundatolay20@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects and become a DevOps Engineer.
+- 🥅 2022 Goals: Work more talk less.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukund20&label=Profile%20views&color=0e75b6&style=flat" alt="Mukund20" /> </p>
