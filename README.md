@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m a DevOps Engineer.
 - 🌱 I’m currently wokrking on Openshift cluster.
-- 💞️ Currently preparing for CKAD certification.
+- 💞️ CKA and CKAD certified.
 - 📫 How to reach me mukundatolay20@gmail.com
 - 🥅 2022 Goals: Work more talk less.
 
