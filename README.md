@@ -2,8 +2,8 @@
 ### Hi there, I am Mukund Tolay👋
 
 - 👋 Hi, I’m a DevOps Engineer.
-- 🌱 I’m currently wokrking on Openshift cluster.
-- 💞️ CKA and CKAD certified.
+- 🌱 Results-driven DevOps Engineer with over 6.9 years of experience in delivering cost-effective and efficient solutions. Proficient in OpenShift, EKS, GKE, and ROSA, with expertise in infrastructure automation using Terraform. Skilled in setting up monitoring and alerts with Datadog, optimizing deployment pipelines, infrastructure management, and continuous integration/delivery processes. Strong interpersonal skills and seeking a challenging role to contribute expertise in enhancing deployment pipelines and infrastructure management. Actively seeking opportunities outside India
+- 💞️ CKA, AWS Solution Architect - Associate and CKAD certified.
 - 📫 How to reach me mukundatolay20@gmail.com
 - 🥅 2022 Goals: Work more talk less.
 
